@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.log
+uploads/
+tests/fixtures/generated/
+/.env.*
+!/.env.example
